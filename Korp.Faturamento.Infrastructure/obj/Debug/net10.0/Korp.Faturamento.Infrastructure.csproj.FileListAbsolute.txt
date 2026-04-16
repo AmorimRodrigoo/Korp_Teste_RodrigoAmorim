@@ -1,0 +1,16 @@
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\bin\Debug\net10.0\Korp.Faturamento.Infrastructure.deps.json
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\bin\Debug\net10.0\Korp.Faturamento.Infrastructure.dll
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\bin\Debug\net10.0\Korp.Faturamento.Infrastructure.pdb
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\bin\Debug\net10.0\Korp.Faturamento.Domain.dll
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\bin\Debug\net10.0\Korp.Faturamento.Domain.pdb
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\obj\Debug\net10.0\Korp.Faturamento.Infrastructure.csproj.AssemblyReference.cache
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\obj\Debug\net10.0\Korp.Faturamento.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\obj\Debug\net10.0\Korp.Faturamento.Infrastructure.AssemblyInfoInputs.cache
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\obj\Debug\net10.0\Korp.Faturamento.Infrastructure.AssemblyInfo.cs
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\obj\Debug\net10.0\Korp.Faturamento.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\obj\Debug\net10.0\Korp.Faturamento.Infrastructure.sourcelink.json
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\obj\Debug\net10.0\Korp.Fat.C9D2778A.Up2Date
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\obj\Debug\net10.0\Korp.Faturamento.Infrastructure.dll
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\obj\Debug\net10.0\refint\Korp.Faturamento.Infrastructure.dll
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\obj\Debug\net10.0\Korp.Faturamento.Infrastructure.pdb
+C:\Korp_Teste\Korp.Faturamento.Infrastructure\obj\Debug\net10.0\ref\Korp.Faturamento.Infrastructure.dll

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Korp.Estoque.Domain</id>
+    <version>1.0.0</version>
+    <authors>Korp.Estoque.Domain</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="494324e52c1a866eed4bc7ee6c215c928b97f7fa" />
+    <dependencies>
+      <group targetFramework="net10.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Korp_Teste\Korp.Estoque.Domain\bin\Debug\net10.0\Korp.Estoque.Domain.dll" target="lib\net10.0\Korp.Estoque.Domain.dll" />
+  </files>
+</package>

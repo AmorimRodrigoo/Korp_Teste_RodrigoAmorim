@@ -1,0 +1,12 @@
+C:\Korp_Teste\Korp.Estoque.Domain\bin\Debug\net10.0\Korp.Estoque.Domain.deps.json
+C:\Korp_Teste\Korp.Estoque.Domain\bin\Debug\net10.0\Korp.Estoque.Domain.dll
+C:\Korp_Teste\Korp.Estoque.Domain\bin\Debug\net10.0\Korp.Estoque.Domain.pdb
+C:\Korp_Teste\Korp.Estoque.Domain\obj\Debug\net10.0\Korp.Estoque.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Korp_Teste\Korp.Estoque.Domain\obj\Debug\net10.0\Korp.Estoque.Domain.AssemblyInfoInputs.cache
+C:\Korp_Teste\Korp.Estoque.Domain\obj\Debug\net10.0\Korp.Estoque.Domain.AssemblyInfo.cs
+C:\Korp_Teste\Korp.Estoque.Domain\obj\Debug\net10.0\Korp.Estoque.Domain.csproj.CoreCompileInputs.cache
+C:\Korp_Teste\Korp.Estoque.Domain\obj\Debug\net10.0\Korp.Estoque.Domain.sourcelink.json
+C:\Korp_Teste\Korp.Estoque.Domain\obj\Debug\net10.0\Korp.Estoque.Domain.dll
+C:\Korp_Teste\Korp.Estoque.Domain\obj\Debug\net10.0\refint\Korp.Estoque.Domain.dll
+C:\Korp_Teste\Korp.Estoque.Domain\obj\Debug\net10.0\Korp.Estoque.Domain.pdb
+C:\Korp_Teste\Korp.Estoque.Domain\obj\Debug\net10.0\ref\Korp.Estoque.Domain.dll

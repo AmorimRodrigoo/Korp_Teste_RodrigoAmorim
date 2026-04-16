@@ -1,0 +1,16 @@
+C:\Korp_Teste\Korp.Estoque.Infrastructure\bin\Debug\net10.0\Korp.Estoque.Infrastructure.deps.json
+C:\Korp_Teste\Korp.Estoque.Infrastructure\bin\Debug\net10.0\Korp.Estoque.Infrastructure.dll
+C:\Korp_Teste\Korp.Estoque.Infrastructure\bin\Debug\net10.0\Korp.Estoque.Infrastructure.pdb
+C:\Korp_Teste\Korp.Estoque.Infrastructure\bin\Debug\net10.0\Korp.Estoque.Domain.dll
+C:\Korp_Teste\Korp.Estoque.Infrastructure\bin\Debug\net10.0\Korp.Estoque.Domain.pdb
+C:\Korp_Teste\Korp.Estoque.Infrastructure\obj\Debug\net10.0\Korp.Estoque.Infrastructure.csproj.AssemblyReference.cache
+C:\Korp_Teste\Korp.Estoque.Infrastructure\obj\Debug\net10.0\Korp.Estoque.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Korp_Teste\Korp.Estoque.Infrastructure\obj\Debug\net10.0\Korp.Estoque.Infrastructure.AssemblyInfoInputs.cache
+C:\Korp_Teste\Korp.Estoque.Infrastructure\obj\Debug\net10.0\Korp.Estoque.Infrastructure.AssemblyInfo.cs
+C:\Korp_Teste\Korp.Estoque.Infrastructure\obj\Debug\net10.0\Korp.Estoque.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Korp_Teste\Korp.Estoque.Infrastructure\obj\Debug\net10.0\Korp.Estoque.Infrastructure.sourcelink.json
+C:\Korp_Teste\Korp.Estoque.Infrastructure\obj\Debug\net10.0\Korp.Est.5835E2E1.Up2Date
+C:\Korp_Teste\Korp.Estoque.Infrastructure\obj\Debug\net10.0\Korp.Estoque.Infrastructure.dll
+C:\Korp_Teste\Korp.Estoque.Infrastructure\obj\Debug\net10.0\refint\Korp.Estoque.Infrastructure.dll
+C:\Korp_Teste\Korp.Estoque.Infrastructure\obj\Debug\net10.0\Korp.Estoque.Infrastructure.pdb
+C:\Korp_Teste\Korp.Estoque.Infrastructure\obj\Debug\net10.0\ref\Korp.Estoque.Infrastructure.dll

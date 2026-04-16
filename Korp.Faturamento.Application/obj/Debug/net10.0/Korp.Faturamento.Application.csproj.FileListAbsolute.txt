@@ -1,0 +1,16 @@
+C:\Korp_Teste\Korp.Faturamento.Application\bin\Debug\net10.0\Korp.Faturamento.Application.deps.json
+C:\Korp_Teste\Korp.Faturamento.Application\bin\Debug\net10.0\Korp.Faturamento.Application.dll
+C:\Korp_Teste\Korp.Faturamento.Application\bin\Debug\net10.0\Korp.Faturamento.Application.pdb
+C:\Korp_Teste\Korp.Faturamento.Application\bin\Debug\net10.0\Korp.Faturamento.Domain.dll
+C:\Korp_Teste\Korp.Faturamento.Application\bin\Debug\net10.0\Korp.Faturamento.Domain.pdb
+C:\Korp_Teste\Korp.Faturamento.Application\obj\Debug\net10.0\Korp.Faturamento.Application.csproj.AssemblyReference.cache
+C:\Korp_Teste\Korp.Faturamento.Application\obj\Debug\net10.0\Korp.Faturamento.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Korp_Teste\Korp.Faturamento.Application\obj\Debug\net10.0\Korp.Faturamento.Application.AssemblyInfoInputs.cache
+C:\Korp_Teste\Korp.Faturamento.Application\obj\Debug\net10.0\Korp.Faturamento.Application.AssemblyInfo.cs
+C:\Korp_Teste\Korp.Faturamento.Application\obj\Debug\net10.0\Korp.Faturamento.Application.csproj.CoreCompileInputs.cache
+C:\Korp_Teste\Korp.Faturamento.Application\obj\Debug\net10.0\Korp.Faturamento.Application.sourcelink.json
+C:\Korp_Teste\Korp.Faturamento.Application\obj\Debug\net10.0\Korp.Fat.C2075B2B.Up2Date
+C:\Korp_Teste\Korp.Faturamento.Application\obj\Debug\net10.0\Korp.Faturamento.Application.dll
+C:\Korp_Teste\Korp.Faturamento.Application\obj\Debug\net10.0\refint\Korp.Faturamento.Application.dll
+C:\Korp_Teste\Korp.Faturamento.Application\obj\Debug\net10.0\Korp.Faturamento.Application.pdb
+C:\Korp_Teste\Korp.Faturamento.Application\obj\Debug\net10.0\ref\Korp.Faturamento.Application.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Korp_Teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74CC2AAA-26FB-B2BA-FB61-0FC5D4BB727B}|Korp.Faturamento.Infrastructure\\Korp.Faturamento.Infrastructure.csproj|c:\\korp_teste\\korp.faturamento.infrastructure\\data\\faturamentodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CC2AAA-26FB-B2BA-FB61-0FC5D4BB727B}|Korp.Faturamento.Infrastructure\\Korp.Faturamento.Infrastructure.csproj|solutionrelative:korp.faturamento.infrastructure\\data\\faturamentodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2227AE3-2566-C701-03D5-F264DCEE10EA}|Korp.Faturamento.API\\Korp.Faturamento.API.csproj|c:\\korp_teste\\korp.faturamento.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2227AE3-2566-C701-03D5-F264DCEE10EA}|Korp.Faturamento.API\\Korp.Faturamento.API.csproj|solutionrelative:korp.faturamento.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDBCB0F-AF33-AC11-4E18-F1358258842D}|Korp.Estoque.Infrastructure\\Korp.Estoque.Infrastructure.csproj|c:\\korp_teste\\korp.estoque.infrastructure\\data\\estoquedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDBCB0F-AF33-AC11-4E18-F1358258842D}|Korp.Estoque.Infrastructure\\Korp.Estoque.Infrastructure.csproj|solutionrelative:korp.estoque.infrastructure\\data\\estoquedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Korp_Teste\\Korp.Faturamento.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Korp.Faturamento.API\\appsettings.json",
+              "ToolTip": "C:\\Korp_Teste\\Korp.Faturamento.API\\appsettings.json",
+              "RelativeToolTip": "Korp.Faturamento.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T23:10:54.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstoqueDbContext.cs",
+              "DocumentMoniker": "C:\\Korp_Teste\\Korp.Estoque.Infrastructure\\Data\\EstoqueDbContext.cs",
+              "RelativeDocumentMoniker": "Korp.Estoque.Infrastructure\\Data\\EstoqueDbContext.cs",
+              "ToolTip": "C:\\Korp_Teste\\Korp.Estoque.Infrastructure\\Data\\EstoqueDbContext.cs",
+              "RelativeToolTip": "Korp.Estoque.Infrastructure\\Data\\EstoqueDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T23:10:14.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FaturamentoDbContext.cs",
+              "DocumentMoniker": "C:\\Korp_Teste\\Korp.Faturamento.Infrastructure\\Data\\FaturamentoDbContext.cs",
+              "RelativeDocumentMoniker": "Korp.Faturamento.Infrastructure\\Data\\FaturamentoDbContext.cs",
+              "ToolTip": "C:\\Korp_Teste\\Korp.Faturamento.Infrastructure\\Data\\FaturamentoDbContext.cs",
+              "RelativeToolTip": "Korp.Faturamento.Infrastructure\\Data\\FaturamentoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T23:09:53.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
