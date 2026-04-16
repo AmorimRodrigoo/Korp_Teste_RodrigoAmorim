@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Korp_Teste\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{037D5D08-8332-3CC9-EF72-C5F50389AAEE}|Korp.Estoque.Domain\\Korp.Estoque.Domain.csproj|c:\\korp_teste\\korp.estoque.domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037D5D08-8332-3CC9-EF72-C5F50389AAEE}|Korp.Estoque.Domain\\Korp.Estoque.Domain.csproj|solutionrelative:korp.estoque.domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C735C3B-C0B5-B912-9D79-97DC36B6BA9D}|Korp.Estoque.Application\\Korp.Estoque.Application.csproj|c:\\korp_teste\\korp.estoque.application\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C735C3B-C0B5-B912-9D79-97DC36B6BA9D}|Korp.Estoque.Application\\Korp.Estoque.Application.csproj|solutionrelative:korp.estoque.application\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C735C3B-C0B5-B912-9D79-97DC36B6BA9D}|Korp.Estoque.Application\\Korp.Estoque.Application.csproj|c:\\korp_teste\\korp.estoque.application\\interfaces\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C735C3B-C0B5-B912-9D79-97DC36B6BA9D}|Korp.Estoque.Application\\Korp.Estoque.Application.csproj|solutionrelative:korp.estoque.application\\interfaces\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Korp_Teste\\Korp.Estoque.Domain\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "Korp.Estoque.Domain\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Korp_Teste\\Korp.Estoque.Domain\\Entities\\Produto.cs",
+              "RelativeToolTip": "Korp.Estoque.Domain\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T23:55:47.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Korp_Teste\\Korp.Estoque.Application\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "Korp.Estoque.Application\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Korp_Teste\\Korp.Estoque.Application\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "Korp.Estoque.Application\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T23:51:11.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProdutoService.cs",
+              "DocumentMoniker": "C:\\Korp_Teste\\Korp.Estoque.Application\\Interfaces\\IProdutoService.cs",
+              "RelativeDocumentMoniker": "Korp.Estoque.Application\\Interfaces\\IProdutoService.cs",
+              "ToolTip": "C:\\Korp_Teste\\Korp.Estoque.Application\\Interfaces\\IProdutoService.cs",
+              "RelativeToolTip": "Korp.Estoque.Application\\Interfaces\\IProdutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T23:49:05.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
