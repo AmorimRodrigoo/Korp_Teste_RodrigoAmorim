@@ -1,0 +1,100 @@
+<div class="header" style="margin-bottom: 20px;">
+  <h2>Faturamento e Notas Fiscais</h2>
+</div>
+
+<div class="mat-elevation-z2" style="padding: 20px; background: white; border-radius: 8px; margin-bottom: 24px;">
+  <h3>Abrir Nova Nota Fiscal</h3>
+  
+  <div style="display: flex; gap: 16px; align-items: flex-start; flex-wrap: wrap;">
+    <mat-form-field appearance="outline">
+      <mat-label>Produto</mat-label>
+      <mat-select [(ngModel)]="itemSendoAdicionado.produtoCodigo">
+        @for (prod of produtosDisponiveis(); track prod.id) {
+          <mat-option [value]="prod.codigo">{{prod.codigo}} - {{prod.descricao}}</mat-option>
+        }
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" style="width: 100px;">
+      <mat-label>Qtd</mat-label>
+      <input matInput type="number" [(ngModel)]="itemSendoAdicionado.quantidade">
+    </mat-form-field>
+
+    <button mat-stroked-button color="accent" style="height: 56px;" (click)="adicionarItemNaLista()">
+      <mat-icon>add</mat-icon> Adicionar Item
+    </button>
+  </div>
+
+  @if (novosItens().length > 0) {
+    <div style="margin-top: 15px; border-top: 1px dashed #ccc; padding-top: 15px;">
+      <h4>Itens da Nota:</h4>
+      <ul>
+        @for (item of novosItens(); track $index) {
+          <li>
+            {{item.produtoCodigo}} - Qtd: {{item.quantidade}}
+            <button mat-icon-button color="warn" (click)="removerItemDaLista($index)"><mat-icon>delete</mat-icon></button>
+          </li>
+        }
+      </ul>
+      <button mat-flat-button color="primary" (click)="salvarNota()">Gerar Nota Fiscal</button>
+    </div>
+  }
+</div>
+
+<hr>
+
+<h3>Histórico de Notas</h3>
+
+@if (estaProcessando()) {
+  <div style="display: flex; align-items: center; gap: 10px; color: #3f51b5; margin-bottom: 10px;">
+    <mat-spinner diameter="20"></mat-spinner>
+    <span>Processando comunicação com o estoque (Polly ativo)...</span>
+  </div>
+}
+
+<div class="mat-elevation-z2">
+  <table mat-table [dataSource]="notas()" style="width: 100%;">
+
+    <ng-container matColumnDef="numero">
+      <th mat-header-cell *matHeaderCellDef> Nº Sequencial </th>
+      <td mat-cell *matCellDef="let n"> <strong>{{n.numeroSequencial}}</strong> </td>
+    </ng-container>
+
+    <ng-container matColumnDef="data">
+      <th mat-header-cell *matHeaderCellDef> Data </th>
+      <td mat-cell *matCellDef="let n"> {{n.dataCriacao | date:'dd/MM/yyyy HH:mm'}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="status">
+      <th mat-header-cell *matHeaderCellDef> Status </th>
+      <td mat-cell *matCellDef="let n"> 
+        <span [style.color]="n.status === 'Fechada' ? 'green' : 'orange'" style="font-weight: bold;">
+          {{n.status}}
+        </span>
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="itens">
+      <th mat-header-cell *matHeaderCellDef> Itens </th>
+      <td mat-cell *matCellDef="let n">
+        <small>@for (it of n.itens; track $index) { {{it.produtoCodigo}}({{it.quantidade}}) }</small>
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="acoes">
+      <th mat-header-cell *matHeaderCellDef> Ações </th>
+      <td mat-cell *matCellDef="let n">
+        @if (n.status === 'Aberta') {
+          <button mat-raised-button color="primary" [disabled]="estaProcessando()" (click)="imprimirNota(n.id)">
+            <mat-icon>print</mat-icon> Imprimir / Faturar
+          </button>
+        } @else {
+          <button mat-button disabled>Concluída</button>
+        }
+      </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="colunas"></tr>
+    <tr mat-row *matRowDef="let row; columns: colunas;"></tr>
+  </table>
+</div>
