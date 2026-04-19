@@ -1,6 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
+    <ProjectReference Include="..\Korp.Faturamento.Application\Korp.Faturamento.Application.csproj" />
     <ProjectReference Include="..\Korp.Faturamento.Domain\Korp.Faturamento.Domain.csproj" />
   </ItemGroup>
 

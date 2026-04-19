@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v10.0": {
       "Korp.Faturamento.Infrastructure/1.0.0": {
         "dependencies": {
+          "Korp.Faturamento.Application": "1.0.0",
           "Korp.Faturamento.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.4",
           "Pomelo.EntityFrameworkCore.MySql": "8.0.2"
@@ -172,6 +173,17 @@
           }
         }
       },
+      "Korp.Faturamento.Application/1.0.0": {
+        "dependencies": {
+          "Korp.Faturamento.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Korp.Faturamento.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Korp.Faturamento.Domain/1.0.0": {
         "runtime": {
           "Korp.Faturamento.Domain.dll": {
@@ -285,6 +297,11 @@
       "sha512": "sha512-XjnlcxVBLnEMbyEc5cZzgZeDyLvAniACZQ04W1slWN0f4rmfNzl98gEMvHnFH0fMDF06z9MmgGi/Sr7hJ+BVnw==",
       "path": "pomelo.entityframeworkcore.mysql/8.0.2",
       "hashPath": "pomelo.entityframeworkcore.mysql.8.0.2.nupkg.sha512"
+    },
+    "Korp.Faturamento.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Korp.Faturamento.Domain/1.0.0": {
       "type": "project",

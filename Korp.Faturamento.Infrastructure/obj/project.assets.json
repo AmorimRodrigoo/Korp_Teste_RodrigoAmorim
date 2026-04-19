@@ -268,6 +268,19 @@
           }
         }
       },
+      "Korp.Faturamento.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Korp.Faturamento.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Korp.Faturamento.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Korp.Faturamento.Application.dll": {}
+        }
+      },
       "Korp.Faturamento.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -721,6 +734,11 @@
         "pomelo.entityframeworkcore.mysql.nuspec"
       ]
     },
+    "Korp.Faturamento.Application/1.0.0": {
+      "type": "project",
+      "path": "../Korp.Faturamento.Application/Korp.Faturamento.Application.csproj",
+      "msbuildProject": "../Korp.Faturamento.Application/Korp.Faturamento.Application.csproj"
+    },
     "Korp.Faturamento.Domain/1.0.0": {
       "type": "project",
       "path": "../Korp.Faturamento.Domain/Korp.Faturamento.Domain.csproj",
@@ -729,6 +747,7 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "Korp.Faturamento.Application >= 1.0.0",
       "Korp.Faturamento.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.4",
       "Pomelo.EntityFrameworkCore.MySql >= 8.0.2"
@@ -766,6 +785,9 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
+            "C:\\Korp_Teste\\Korp.Faturamento.Application\\Korp.Faturamento.Application.csproj": {
+              "projectPath": "C:\\Korp_Teste\\Korp.Faturamento.Application\\Korp.Faturamento.Application.csproj"
+            },
             "C:\\Korp_Teste\\Korp.Faturamento.Domain\\Korp.Faturamento.Domain.csproj": {
               "projectPath": "C:\\Korp_Teste\\Korp.Faturamento.Domain\\Korp.Faturamento.Domain.csproj"
             }

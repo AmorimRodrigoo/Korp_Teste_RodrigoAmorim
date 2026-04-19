@@ -1,0 +1,19 @@
+# Pastas do C#
+[Bb]in/
+[Oo]bj/
+.vs/
+.idea/
+
+# Pastas do Angular (Frontend)
+node_modules/
+dist/
+.angular/
+
+# Gemini CLI
+.gemini/
+gemini.config.json
+
+# Outros
+*.user
+*.suo
+appsettings.Development.json
