@@ -1,42 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Korp_Teste\\Korp.Faturamento.API\\Korp.Faturamento.API.csproj": {}
+    "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.API/Korp.Faturamento.API.csproj": {}
   },
   "projects": {
-    "C:\\Korp_Teste\\Korp.Faturamento.API\\Korp.Faturamento.API.csproj": {
+    "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.API/Korp.Faturamento.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Korp_Teste\\Korp.Faturamento.API\\Korp.Faturamento.API.csproj",
+        "projectUniqueName": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.API/Korp.Faturamento.API.csproj",
         "projectName": "Korp.Faturamento.API",
-        "projectPath": "C:\\Korp_Teste\\Korp.Faturamento.API\\Korp.Faturamento.API.csproj",
-        "packagesPath": "C:\\Users\\Rodrigo Amorim\\.nuget\\packages\\",
-        "outputPath": "C:\\Korp_Teste\\Korp.Faturamento.API\\obj\\",
+        "projectPath": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.API/Korp.Faturamento.API.csproj",
+        "packagesPath": "/home/rodrigo/.nuget/packages/",
+        "outputPath": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.API/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Rodrigo Amorim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/rodrigo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Korp_Teste\\Korp.Faturamento.Application\\Korp.Faturamento.Application.csproj": {
-                "projectPath": "C:\\Korp_Teste\\Korp.Faturamento.Application\\Korp.Faturamento.Application.csproj"
+              "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Application/Korp.Faturamento.Application.csproj": {
+                "projectPath": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Application/Korp.Faturamento.Application.csproj"
               },
-              "C:\\Korp_Teste\\Korp.Faturamento.Infrastructure\\Korp.Faturamento.Infrastructure.csproj": {
-                "projectPath": "C:\\Korp_Teste\\Korp.Faturamento.Infrastructure\\Korp.Faturamento.Infrastructure.csproj"
+              "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Infrastructure/Korp.Faturamento.Infrastructure.csproj": {
+                "projectPath": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Infrastructure/Korp.Faturamento.Infrastructure.csproj"
               }
             }
           }
@@ -51,7 +46,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -95,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.107/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -513,36 +508,31 @@
         }
       }
     },
-    "C:\\Korp_Teste\\Korp.Faturamento.Application\\Korp.Faturamento.Application.csproj": {
+    "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Application/Korp.Faturamento.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Korp_Teste\\Korp.Faturamento.Application\\Korp.Faturamento.Application.csproj",
+        "projectUniqueName": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Application/Korp.Faturamento.Application.csproj",
         "projectName": "Korp.Faturamento.Application",
-        "projectPath": "C:\\Korp_Teste\\Korp.Faturamento.Application\\Korp.Faturamento.Application.csproj",
-        "packagesPath": "C:\\Users\\Rodrigo Amorim\\.nuget\\packages\\",
-        "outputPath": "C:\\Korp_Teste\\Korp.Faturamento.Application\\obj\\",
+        "projectPath": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Application/Korp.Faturamento.Application.csproj",
+        "packagesPath": "/home/rodrigo/.nuget/packages/",
+        "outputPath": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Application/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Rodrigo Amorim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/rodrigo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Korp_Teste\\Korp.Faturamento.Domain\\Korp.Faturamento.Domain.csproj": {
-                "projectPath": "C:\\Korp_Teste\\Korp.Faturamento.Domain\\Korp.Faturamento.Domain.csproj"
+              "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Domain/Korp.Faturamento.Domain.csproj": {
+                "projectPath": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Domain/Korp.Faturamento.Domain.csproj"
               }
             }
           }
@@ -557,7 +547,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -578,7 +568,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.107/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -856,28 +846,23 @@
         }
       }
     },
-    "C:\\Korp_Teste\\Korp.Faturamento.Domain\\Korp.Faturamento.Domain.csproj": {
+    "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Domain/Korp.Faturamento.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Korp_Teste\\Korp.Faturamento.Domain\\Korp.Faturamento.Domain.csproj",
+        "projectUniqueName": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Domain/Korp.Faturamento.Domain.csproj",
         "projectName": "Korp.Faturamento.Domain",
-        "projectPath": "C:\\Korp_Teste\\Korp.Faturamento.Domain\\Korp.Faturamento.Domain.csproj",
-        "packagesPath": "C:\\Users\\Rodrigo Amorim\\.nuget\\packages\\",
-        "outputPath": "C:\\Korp_Teste\\Korp.Faturamento.Domain\\obj\\",
+        "projectPath": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Domain/Korp.Faturamento.Domain.csproj",
+        "packagesPath": "/home/rodrigo/.nuget/packages/",
+        "outputPath": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Rodrigo Amorim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/rodrigo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -896,7 +881,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -917,7 +902,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.107/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1195,39 +1180,34 @@
         }
       }
     },
-    "C:\\Korp_Teste\\Korp.Faturamento.Infrastructure\\Korp.Faturamento.Infrastructure.csproj": {
+    "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Infrastructure/Korp.Faturamento.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Korp_Teste\\Korp.Faturamento.Infrastructure\\Korp.Faturamento.Infrastructure.csproj",
+        "projectUniqueName": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Infrastructure/Korp.Faturamento.Infrastructure.csproj",
         "projectName": "Korp.Faturamento.Infrastructure",
-        "projectPath": "C:\\Korp_Teste\\Korp.Faturamento.Infrastructure\\Korp.Faturamento.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Rodrigo Amorim\\.nuget\\packages\\",
-        "outputPath": "C:\\Korp_Teste\\Korp.Faturamento.Infrastructure\\obj\\",
+        "projectPath": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Infrastructure/Korp.Faturamento.Infrastructure.csproj",
+        "packagesPath": "/home/rodrigo/.nuget/packages/",
+        "outputPath": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Infrastructure/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Rodrigo Amorim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/rodrigo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Korp_Teste\\Korp.Faturamento.Application\\Korp.Faturamento.Application.csproj": {
-                "projectPath": "C:\\Korp_Teste\\Korp.Faturamento.Application\\Korp.Faturamento.Application.csproj"
+              "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Application/Korp.Faturamento.Application.csproj": {
+                "projectPath": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Application/Korp.Faturamento.Application.csproj"
               },
-              "C:\\Korp_Teste\\Korp.Faturamento.Domain\\Korp.Faturamento.Domain.csproj": {
-                "projectPath": "C:\\Korp_Teste\\Korp.Faturamento.Domain\\Korp.Faturamento.Domain.csproj"
+              "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Domain/Korp.Faturamento.Domain.csproj": {
+                "projectPath": "/home/rodrigo/Documents/KorpProject/Korp_Teste_RodrigoAmorim/Korp.Faturamento.Domain/Korp.Faturamento.Domain.csproj"
               }
             }
           }
@@ -1242,7 +1222,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -1273,7 +1253,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.107/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
